@@ -1429,12 +1429,6 @@ header.overflow .navbar-brand img {
     margin-top: 9px;
   }
 }
-@media (min-width: 1600px) {
-  header.overflow .navbar-brand img {
-    height: auto;
-    margin: 13px 0px;
-  }
-}
 header.overflow.fixed {
   top: 0px;
   position: fixed;
